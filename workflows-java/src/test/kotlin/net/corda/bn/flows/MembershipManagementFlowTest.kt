@@ -346,10 +346,8 @@ abstract class MembershipManagementFlowTest(
         val oldIdentity = rotateIdentityKey(mockNetwork.baseDirectory(node) / "certificates")
         val restartedNode = mockNetwork.restartNode(node)
 
-
-
-
-        (restartedNode.services.keyManagementService as KeyManagementServiceInternal).start(setOf(KeyPair(oldIdentity.first, oldIdentity.)))
+        val keyPair = KeyPair(oldIdentity.first, null)
+        (restartedNode.services.keyManagementService as KeyManagementServiceInternal).start(setOf(keyPair))
         return restartedNode
     }
 

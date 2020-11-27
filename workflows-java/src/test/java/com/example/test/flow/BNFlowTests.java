@@ -3,6 +3,7 @@ package com.example.test.flow;
 import com.example.flow.ExampleFlow;
 import com.google.common.collect.ImmutableList;
 
+import net.corda.bn.flows.MembershipManagementFlowTest;
 import net.corda.core.concurrent.CordaFuture;
 import net.corda.core.contracts.*;
 import net.corda.core.transactions.SignedTransaction;
