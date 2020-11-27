@@ -61,6 +61,9 @@ dependencies {
 
     cordapp("net.corda.bn:business-networks-contracts:$corda_bn_extension_version")
     cordapp("net.corda.bn:business-networks-workflows:$corda_bn_extension_version")
+
+    implementation "org.jetbrains.kotlin:kotlin-stdlib:$kotlinVersion"
+    compile "org.jetbrains.kotlin:kotlin-stdlib-jdk8:$kotlinVersion"
     // CorDapp dependencies.
     cordapp project(":contracts-java")
 }

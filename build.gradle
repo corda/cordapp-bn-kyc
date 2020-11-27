@@ -16,6 +16,7 @@ buildscript {
         slf4j_version = constants.getProperty("slf4jVersion")
         corda_platform_version = constants.getProperty("platformVersion")
         corda_bn_extension_version=constants.getProperty("corda_bn_extension_version")
+        kotlinVersion =constants.getProperty("kotlinVersion")
     }
 
     repositories {
@@ -33,12 +34,15 @@ buildscript {
         classpath "net.corda.plugins:cordapp:$corda_gradle_plugins_version"
         classpath "net.corda.plugins:cordformation:$corda_gradle_plugins_version"
         classpath "net.corda.plugins:quasar-utils:$corda_gradle_plugins_version"
+        classpath "org.jetbrains.kotlin:kotlin-gradle-plugin:$kotlinVersion"
     }
 }
 
+
+
 allprojects {
     apply plugin: 'java'
-
+    apply plugin: 'kotlin'
     apply from: "${rootProject.projectDir}/repositories.gradle"
 
     configurations {
@@ -47,6 +51,7 @@ allprojects {
             // Remove any transitive dependency on Apache's version.
             exclude group: 'commons-logging', module: 'commons-logging'
         }
+
     }
 
     tasks.withType(JavaCompile) {

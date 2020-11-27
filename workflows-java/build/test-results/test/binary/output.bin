@@ -1,0 +1,147 @@
+∑[37m[INFO] 14:30:05,740 [Test worker] internal.TestCordappImpl. - Generating CorDapp jar from local project in /Users/garryjackson/Documents/GitHub/cordapp-bn-kyc/workflows-java ...
+[mO[37m[INFO] 14:30:05,878 [Connection worker] internal.TestCordappImpl. - Build
+[m`[37m[INFO] 14:30:06,728 [Connection worker] internal.TestCordappImpl. - Starting Gradle Daemon
+[me[37m[INFO] 14:30:07,440 [Connection worker] internal.TestCordappImpl. - Connecting to Gradle Daemon
+[m`[37m[INFO] 14:30:07,450 [Connection worker] internal.TestCordappImpl. - Starting Gradle Daemon
+[mO[37m[INFO] 14:30:07,451 [Connection worker] internal.TestCordappImpl. - Build
+[mS[37m[INFO] 14:30:07,871 [Connection worker] internal.TestCordappImpl. - Run build
+[m[[37m[INFO] 14:30:07,883 [Connection worker] internal.TestCordappImpl. - Evaluate settings
+[mS[37m[INFO] 14:30:08,278 [Connection worker] internal.TestCordappImpl. - Run build
+[mY[37m[INFO] 14:30:08,278 [Connection worker] internal.TestCordappImpl. - Configure build
+[mW[37m[INFO] 14:30:08,278 [Connection worker] internal.TestCordappImpl. - Load projects
+[mY[37m[INFO] 14:30:08,397 [Connection worker] internal.TestCordappImpl. - Configure build
+[m][37m[INFO] 14:30:08,408 [Connection worker] internal.TestCordappImpl. - Configure project :
+[ml[37m[INFO] 14:30:08,795 [Connection worker] internal.TestCordappImpl. - Resolve dependencies of :classpath
+[m][37m[INFO] 14:30:08,991 [Connection worker] internal.TestCordappImpl. - Configure project :
+[me[37m[INFO] 14:30:08,991 [Connection worker] internal.TestCordappImpl. - Resolve files of :classpath
+[m][37m[INFO] 14:30:09,025 [Connection worker] internal.TestCordappImpl. - Configure project :
+[me[37m[INFO] 14:30:09,025 [Connection worker] internal.TestCordappImpl. - Resolve files of :classpath
+[m][37m[INFO] 14:30:09,025 [Connection worker] internal.TestCordappImpl. - Configure project :
+[mY[37m[INFO] 14:30:09,525 [Connection worker] internal.TestCordappImpl. - Configure build
+[md[37m[INFO] 14:30:09,526 [Connection worker] internal.TestCordappImpl. - Configure project :clients
+[mx[37m[INFO] 14:30:09,536 [Connection worker] internal.TestCordappImpl. - Resolve dependencies of detachedConfiguration1
+[md[37m[INFO] 14:30:09,546 [Connection worker] internal.TestCordappImpl. - Configure project :clients
+[mt[37m[INFO] 14:30:09,546 [Connection worker] internal.TestCordappImpl. - Resolve dependencies of :clients:classpath
+[md[37m[INFO] 14:30:09,546 [Connection worker] internal.TestCordappImpl. - Configure project :clients
+[mm[37m[INFO] 14:30:09,546 [Connection worker] internal.TestCordappImpl. - Resolve files of :clients:classpath
+[md[37m[INFO] 14:30:09,546 [Connection worker] internal.TestCordappImpl. - Configure project :clients
+[mm[37m[INFO] 14:30:09,546 [Connection worker] internal.TestCordappImpl. - Resolve files of :clients:classpath
+[md[37m[INFO] 14:30:09,546 [Connection worker] internal.TestCordappImpl. - Configure project :clients
+[mY[37m[INFO] 14:30:09,760 [Connection worker] internal.TestCordappImpl. - Configure build
+[mk[37m[INFO] 14:30:09,760 [Connection worker] internal.TestCordappImpl. - Configure project :contracts-java
+[mY[37m[INFO] 14:30:09,802 [Connection worker] internal.TestCordappImpl. - Configure build
+[mk[37m[INFO] 14:30:09,802 [Connection worker] internal.TestCordappImpl. - Configure project :workflows-java
+[mY[37m[INFO] 14:30:09,899 [Connection worker] internal.TestCordappImpl. - Configure build
+[mS[37m[INFO] 14:30:09,899 [Connection worker] internal.TestCordappImpl. - Run build
+[mâ[37m[INFO] 14:30:09,977 [Connection worker] internal.TestCordappImpl. - Resolve dependencies of :workflows-java:kotlinCompilerClasspath
+[mS[37m[INFO] 14:30:09,998 [Connection worker] internal.TestCordappImpl. - Run build
+[mÇ[37m[INFO] 14:30:09,998 [Connection worker] internal.TestCordappImpl. - Resolve files of :workflows-java:kotlinCompilerClasspath
+[mS[37m[INFO] 14:30:09,998 [Connection worker] internal.TestCordappImpl. - Run build
+[mâ[37m[INFO] 14:30:09,998 [Connection worker] internal.TestCordappImpl. - Resolve dependencies of :contracts-java:kotlinCompilerClasspath
+[mS[37m[INFO] 14:30:10,009 [Connection worker] internal.TestCordappImpl. - Run build
+[mÇ[37m[INFO] 14:30:10,009 [Connection worker] internal.TestCordappImpl. - Resolve files of :contracts-java:kotlinCompilerClasspath
+[mS[37m[INFO] 14:30:10,009 [Connection worker] internal.TestCordappImpl. - Run build
+[mS[37m[INFO] 14:30:10,009 [Connection worker] internal.TestCordappImpl. - Run tasks
+[ml[37m[INFO] 14:30:10,043 [Connection worker] internal.TestCordappImpl. - Task :contracts-java:compileKotlin
+[mÇ[37m[INFO] 14:30:10,043 [Connection worker] internal.TestCordappImpl. - Resolve files of :contracts-java:kotlinCompilerClasspath
+[ml[37m[INFO] 14:30:10,043 [Connection worker] internal.TestCordappImpl. - Task :contracts-java:compileKotlin
+[mè[37m[INFO] 14:30:10,088 [Connection worker] internal.TestCordappImpl. - Resolve dependencies of :contracts-java:kotlinCompilerPluginClasspath
+[ml[37m[INFO] 14:30:10,088 [Connection worker] internal.TestCordappImpl. - Task :contracts-java:compileKotlin
+[mà[37m[INFO] 14:30:10,088 [Connection worker] internal.TestCordappImpl. - Resolve files of :contracts-java:kotlinCompilerPluginClasspath
+[ml[37m[INFO] 14:30:10,088 [Connection worker] internal.TestCordappImpl. - Task :contracts-java:compileKotlin
+[mÇ[37m[INFO] 14:30:10,088 [Connection worker] internal.TestCordappImpl. - Resolve dependencies of :contracts-java:compileClasspath
+[ml[37m[INFO] 14:30:10,121 [Connection worker] internal.TestCordappImpl. - Task :contracts-java:compileKotlin
+[m{[37m[INFO] 14:30:10,121 [Connection worker] internal.TestCordappImpl. - Resolve files of :contracts-java:compileClasspath
+[ml[37m[INFO] 14:30:10,134 [Connection worker] internal.TestCordappImpl. - Task :contracts-java:compileKotlin
+[m{[37m[INFO] 14:30:10,452 [Connection worker] internal.TestCordappImpl. - Resolve files of :contracts-java:compileClasspath
+[ml[37m[INFO] 14:30:10,452 [Connection worker] internal.TestCordappImpl. - Task :contracts-java:compileKotlin
+[mà[37m[INFO] 14:30:10,464 [Connection worker] internal.TestCordappImpl. - Resolve files of :contracts-java:kotlinCompilerPluginClasspath
+[ml[37m[INFO] 14:30:10,464 [Connection worker] internal.TestCordappImpl. - Task :contracts-java:compileKotlin
+[mS[37m[INFO] 14:30:10,475 [Connection worker] internal.TestCordappImpl. - Run tasks
+[mj[37m[INFO] 14:30:10,475 [Connection worker] internal.TestCordappImpl. - Task :contracts-java:compileJava
+[m{[37m[INFO] 14:30:10,485 [Connection worker] internal.TestCordappImpl. - Resolve files of :contracts-java:compileClasspath
+[mj[37m[INFO] 14:30:10,485 [Connection worker] internal.TestCordappImpl. - Task :contracts-java:compileJava
+[mÖ[37m[INFO] 14:30:10,485 [Connection worker] internal.TestCordappImpl. - Resolve dependencies of :contracts-java:annotationProcessor
+[mj[37m[INFO] 14:30:10,485 [Connection worker] internal.TestCordappImpl. - Task :contracts-java:compileJava
+[mS[37m[INFO] 14:30:10,497 [Connection worker] internal.TestCordappImpl. - Run tasks
+[mo[37m[INFO] 14:30:10,497 [Connection worker] internal.TestCordappImpl. - Task :contracts-java:processResources
+[mS[37m[INFO] 14:30:10,497 [Connection worker] internal.TestCordappImpl. - Run tasks
+[mf[37m[INFO] 14:30:10,497 [Connection worker] internal.TestCordappImpl. - Task :contracts-java:classes
+[mS[37m[INFO] 14:30:10,497 [Connection worker] internal.TestCordappImpl. - Run tasks
+[mu[37m[INFO] 14:30:10,497 [Connection worker] internal.TestCordappImpl. - Task :contracts-java:configureCordappFatJar
+[my[37m[INFO] 14:30:10,497 [Connection worker] internal.TestCordappImpl. - Resolve dependencies of :contracts-java:runtime
+[mu[37m[INFO] 14:30:10,527 [Connection worker] internal.TestCordappImpl. - Task :contracts-java:configureCordappFatJar
+[mr[37m[INFO] 14:30:10,527 [Connection worker] internal.TestCordappImpl. - Resolve files of :contracts-java:runtime
+[mu[37m[INFO] 14:30:10,527 [Connection worker] internal.TestCordappImpl. - Task :contracts-java:configureCordappFatJar
+[mr[37m[INFO] 14:30:10,527 [Connection worker] internal.TestCordappImpl. - Resolve files of :contracts-java:runtime
+[mu[37m[INFO] 14:30:10,539 [Connection worker] internal.TestCordappImpl. - Task :contracts-java:configureCordappFatJar
+[mS[37m[INFO] 14:30:10,539 [Connection worker] internal.TestCordappImpl. - Run tasks
+[mx[37m[INFO] 14:30:10,539 [Connection worker] internal.TestCordappImpl. - Task :contracts-java:inspectClassesForKotlinIC
+[mS[37m[INFO] 14:30:10,539 [Connection worker] internal.TestCordappImpl. - Run tasks
+[mb[37m[INFO] 14:30:10,540 [Connection worker] internal.TestCordappImpl. - Task :contracts-java:jar
+[mS[37m[INFO] 14:30:10,551 [Connection worker] internal.TestCordappImpl. - Run tasks
+[ml[37m[INFO] 14:30:10,551 [Connection worker] internal.TestCordappImpl. - Task :workflows-java:compileKotlin
+[mÇ[37m[INFO] 14:30:10,551 [Connection worker] internal.TestCordappImpl. - Resolve files of :workflows-java:kotlinCompilerClasspath
+[ml[37m[INFO] 14:30:10,551 [Connection worker] internal.TestCordappImpl. - Task :workflows-java:compileKotlin
+[mè[37m[INFO] 14:30:10,551 [Connection worker] internal.TestCordappImpl. - Resolve dependencies of :workflows-java:kotlinCompilerPluginClasspath
+[ml[37m[INFO] 14:30:10,551 [Connection worker] internal.TestCordappImpl. - Task :workflows-java:compileKotlin
+[mà[37m[INFO] 14:30:10,551 [Connection worker] internal.TestCordappImpl. - Resolve files of :workflows-java:kotlinCompilerPluginClasspath
+[ml[37m[INFO] 14:30:10,551 [Connection worker] internal.TestCordappImpl. - Task :workflows-java:compileKotlin
+[mÇ[37m[INFO] 14:30:10,551 [Connection worker] internal.TestCordappImpl. - Resolve dependencies of :workflows-java:compileClasspath
+[ml[37m[INFO] 14:30:10,615 [Connection worker] internal.TestCordappImpl. - Task :workflows-java:compileKotlin
+[m{[37m[INFO] 14:30:10,615 [Connection worker] internal.TestCordappImpl. - Resolve files of :workflows-java:compileClasspath
+[ml[37m[INFO] 14:30:10,615 [Connection worker] internal.TestCordappImpl. - Task :workflows-java:compileKotlin
+[m{[37m[INFO] 14:30:10,627 [Connection worker] internal.TestCordappImpl. - Resolve files of :workflows-java:compileClasspath
+[ml[37m[INFO] 14:30:10,627 [Connection worker] internal.TestCordappImpl. - Task :workflows-java:compileKotlin
+[mà[37m[INFO] 14:30:10,638 [Connection worker] internal.TestCordappImpl. - Resolve files of :workflows-java:kotlinCompilerPluginClasspath
+[ml[37m[INFO] 14:30:10,638 [Connection worker] internal.TestCordappImpl. - Task :workflows-java:compileKotlin
+[mS[37m[INFO] 14:30:10,638 [Connection worker] internal.TestCordappImpl. - Run tasks
+[mj[37m[INFO] 14:30:10,638 [Connection worker] internal.TestCordappImpl. - Task :workflows-java:compileJava
+[m{[37m[INFO] 14:30:10,649 [Connection worker] internal.TestCordappImpl. - Resolve files of :workflows-java:compileClasspath
+[mj[37m[INFO] 14:30:10,649 [Connection worker] internal.TestCordappImpl. - Task :workflows-java:compileJava
+[mÖ[37m[INFO] 14:30:10,649 [Connection worker] internal.TestCordappImpl. - Resolve dependencies of :workflows-java:annotationProcessor
+[mj[37m[INFO] 14:30:10,649 [Connection worker] internal.TestCordappImpl. - Task :workflows-java:compileJava
+[mS[37m[INFO] 14:30:10,649 [Connection worker] internal.TestCordappImpl. - Run tasks
+[mo[37m[INFO] 14:30:10,649 [Connection worker] internal.TestCordappImpl. - Task :workflows-java:processResources
+[mS[37m[INFO] 14:30:10,660 [Connection worker] internal.TestCordappImpl. - Run tasks
+[mf[37m[INFO] 14:30:10,660 [Connection worker] internal.TestCordappImpl. - Task :workflows-java:classes
+[mS[37m[INFO] 14:30:10,660 [Connection worker] internal.TestCordappImpl. - Run tasks
+[mu[37m[INFO] 14:30:10,660 [Connection worker] internal.TestCordappImpl. - Task :workflows-java:configureCordappFatJar
+[my[37m[INFO] 14:30:10,660 [Connection worker] internal.TestCordappImpl. - Resolve dependencies of :workflows-java:runtime
+[mu[37m[INFO] 14:30:10,691 [Connection worker] internal.TestCordappImpl. - Task :workflows-java:configureCordappFatJar
+[mr[37m[INFO] 14:30:10,691 [Connection worker] internal.TestCordappImpl. - Resolve files of :workflows-java:runtime
+[mu[37m[INFO] 14:30:10,701 [Connection worker] internal.TestCordappImpl. - Task :workflows-java:configureCordappFatJar
+[mr[37m[INFO] 14:30:10,701 [Connection worker] internal.TestCordappImpl. - Resolve files of :workflows-java:runtime
+[mu[37m[INFO] 14:30:10,701 [Connection worker] internal.TestCordappImpl. - Task :workflows-java:configureCordappFatJar
+[mr[37m[INFO] 14:30:10,702 [Connection worker] internal.TestCordappImpl. - Resolve files of :workflows-java:runtime
+[mu[37m[INFO] 14:30:10,702 [Connection worker] internal.TestCordappImpl. - Task :workflows-java:configureCordappFatJar
+[mr[37m[INFO] 14:30:10,702 [Connection worker] internal.TestCordappImpl. - Resolve files of :workflows-java:runtime
+[mu[37m[INFO] 14:30:10,702 [Connection worker] internal.TestCordappImpl. - Task :workflows-java:configureCordappFatJar
+[mr[37m[INFO] 14:30:10,702 [Connection worker] internal.TestCordappImpl. - Resolve files of :workflows-java:runtime
+[mu[37m[INFO] 14:30:10,702 [Connection worker] internal.TestCordappImpl. - Task :workflows-java:configureCordappFatJar
+[mr[37m[INFO] 14:30:10,702 [Connection worker] internal.TestCordappImpl. - Resolve files of :workflows-java:runtime
+[mu[37m[INFO] 14:30:10,702 [Connection worker] internal.TestCordappImpl. - Task :workflows-java:configureCordappFatJar
+[mr[37m[INFO] 14:30:10,702 [Connection worker] internal.TestCordappImpl. - Resolve files of :workflows-java:runtime
+[mu[37m[INFO] 14:30:10,702 [Connection worker] internal.TestCordappImpl. - Task :workflows-java:configureCordappFatJar
+[mr[37m[INFO] 14:30:10,702 [Connection worker] internal.TestCordappImpl. - Resolve files of :workflows-java:runtime
+[mu[37m[INFO] 14:30:10,712 [Connection worker] internal.TestCordappImpl. - Task :workflows-java:configureCordappFatJar
+[mr[37m[INFO] 14:30:10,712 [Connection worker] internal.TestCordappImpl. - Resolve files of :workflows-java:runtime
+[mu[37m[INFO] 14:30:10,712 [Connection worker] internal.TestCordappImpl. - Task :workflows-java:configureCordappFatJar
+[mS[37m[INFO] 14:30:10,712 [Connection worker] internal.TestCordappImpl. - Run tasks
+[mx[37m[INFO] 14:30:10,712 [Connection worker] internal.TestCordappImpl. - Task :workflows-java:inspectClassesForKotlinIC
+[mS[37m[INFO] 14:30:10,712 [Connection worker] internal.TestCordappImpl. - Run tasks
+[mb[37m[INFO] 14:30:10,712 [Connection worker] internal.TestCordappImpl. - Task :workflows-java:jar
+[mS[37m[INFO] 14:30:10,725 [Connection worker] internal.TestCordappImpl. - Run tasks
+[mS[37m[INFO] 14:30:10,725 [Connection worker] internal.TestCordappImpl. - Run build
+[mÑ[37m[INFO] 14:30:10,735 [Connection worker] internal.TestCordappImpl. - Build model 'java.lang.Void' for project ':workflows-java'
+[mS[37m[INFO] 14:30:10,735 [Connection worker] internal.TestCordappImpl. - Run build
+[mO[37m[INFO] 14:30:10,739 [Connection worker] internal.TestCordappImpl. - Build
+[m∞[37m[INFO] 14:30:10,747 [Connection worker] internal.TestCordappImpl. - Deleting unused version-specific caches in /Users/garryjackson/Documents/GitHub/cordapp-bn-kyc/.gradle
+[mO[37m[INFO] 14:30:10,747 [Connection worker] internal.TestCordappImpl. - Build
+[mJ[37m[INFO] 14:30:10,771 [Connection worker] internal.TestCordappImpl. - 
+[mÆ[37m[INFO] 14:30:14,246 [Test worker] cordapp.JarScanningCordappLoader. - Looking for CorDapps in [build/mock-network/20201127-143005.047-75C3059AF19CDFE7/nodes/0/cordapps]
+[m°[37m[INFO] 14:30:14,251 [Test worker] cordapp.JarScanningCordappLoader. - Loading CorDapps from RestrictedURL(url=file:/Users/garryjackson/Documents/GitHub/cordapp-bn-kyc/workflows-java/build/mock-network/20201127-143005.047-75C3059AF19CDFE7/nodes/0/cordapps/cordapp-example-workflows-0.1.jar, rootPackageName=null), RestrictedURL(url=file:/Users/garryjackson/Documents/GitHub/cordapp-bn-kyc/workflows-java/build/mock-network/20201127-143005.047-75C3059AF19CDFE7/nodes/0/cordapps/business-networks-contracts-1.1-RC03.jar, rootPackageName=null)
+[mí[37m[INFO] 14:30:14,260 [Test worker] cordapp.JarScanningCordappLoader. - Scanning CorDapp in file:/Users/garryjackson/Documents/GitHub/cordapp-bn-kyc/workflows-java/build/mock-network/20201127-143005.047-75C3059AF19CDFE7/nodes/0/cordapps/cordapp-example-workflows-0.1.jar
+[mô[37m[INFO] 14:30:14,325 [Test worker] cordapp.JarScanningCordappLoader. - Scanning CorDapp in file:/Users/garryjackson/Documents/GitHub/cordapp-bn-kyc/workflows-java/build/mock-network/20201127-143005.047-75C3059AF19CDFE7/nodes/0/cordapps/business-networks-contracts-1.1-RC03.jar
+[m⁄[31m[WARN] 14:30:14,370 [Test worker] cordapp.JarScanningCordappLoader. - Not loading CorDapp Business Networks Showcase (Corda Open Source) as it requires minimum platform version 9 (This node is running version 8).
+[m
